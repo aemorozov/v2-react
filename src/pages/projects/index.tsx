@@ -7,7 +7,7 @@ const Projects = () => {
       <Head>
         <title>Projects</title>
       </Head>
-      <h1 className="w-fit mx-auto mt-20">Projects</h1>
+      <h1>Projects</h1>
     </MainLayout>
   );
 };

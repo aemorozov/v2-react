@@ -4,8 +4,8 @@ import Router from "next/router";
 const About = () => {
   return (
     <MainLayout>
-      <h1 className="w-fit mx-auto mt-20">About Page</h1>
-      <div className="w-fit mx-auto mt-20">
+      <h1>About Page</h1>
+      <div>
         <button onClick={() => Router.push("./")}>Go to Home</button>
       </div>
     </MainLayout>
