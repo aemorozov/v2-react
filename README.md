@@ -1,7 +1,5 @@
 ## V2 for my website on React
 
-## Getting Started
-
 First, run the development server:
 
 ```bash
