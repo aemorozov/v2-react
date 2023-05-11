@@ -6,6 +6,10 @@ First, run the development server:
 npm run dev
 ```
 
+## Deploy
+
+-->> [aemorozov-react.vercel.app/](https://aemorozov-react.vercel.app/) <<--
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
