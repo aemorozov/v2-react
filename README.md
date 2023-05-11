@@ -1,4 +1,4 @@
-# V2 for my website on React + Next.JS
+# V2 for my website on React + Next.JS + TypeScript
 
 ## Deploy:
 
